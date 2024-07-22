@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: darksalmon;
+
+}
+.pp{
+    color:"white";
+    text-align: center;
+    padding: 10px;
+
+}
+.man{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.man div{
+    width: 200px;
+    color: white;
+    margin: 10px;
+    flex-basis: 20%;
+}
